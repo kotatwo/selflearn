@@ -1,0 +1,12 @@
+package to.msn.wings.selflearn.chap08.construct;
+
+public class InheritConstruct {
+
+	public static void main(String[] args) {
+		var c = new MyChild("山田太郎");
+		
+
+	}
+
+}
+//継承関係にあるクラスでは上位クラスからコンストラクターが呼び出される。
